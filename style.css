@@ -1,0 +1,33 @@
+/* .col{
+    border: 1px solid black;
+} */
+/* .New{
+    color: yellow;
+} */
+/* .shade{
+    
+    box-shadow: 0.5px 0px 0.5px 0.5px gray;
+} */
+.bnt_new{
+    background: #0AAD0A;
+}
+.spacer{
+    width: 90%;
+    box-shadow: 0.5px 0px 0.5px 0.5px gray;
+    
+}
+.bnt_New{
+    color: #0AAD0A;
+}
+.BTn{
+    height: 60px;
+    background: rgb(241, 213, 218);
+}
+.default{
+    background: #F0F3F2;
+
+}
+.dfult{
+ width: 100%;
+    background: #001E2B;
+}
